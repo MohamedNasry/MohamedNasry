@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed En-nasry
 
-<!--
-**MohamedNasry/MohamedNasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🎓 Computer Engineering Student
+🚀 Passionate about building scalable applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 I build Desktop & Mobile Applications
+* 🌱 Learning Advanced .NET & System Design
+* 🧩 Problem Solver | ⚡ Self Learner | 🧠 Autonomous
+
+---
+
+## 🛠️ Tech Stack
+
+* C#, Java, JavaScript
+* .NET Framework, React, React Native
+* SQL Server, PostgreSQL
+* REST APIs, SOLID Principles
+
+---
+
+## 🚀 Projects
+
+### 📌 DVLD System
+
+Desktop app using .NET (WinForms) + SQL Server
+➡️ Full DMV management system
+
+### 📱 Mobile Archive App
+
+Android app with OCR & document classification
+
+---
+
+## 🌍 Languages
+
+* Arabic: Native
+* French: Intermediate
+* English: Intermediate
