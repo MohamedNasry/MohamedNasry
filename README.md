@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-* 🔭 I build Desktop & Mobile Applications
+* 🔭 I build Desktop & Mobile Applications & Web
 * 🌱 Learning Advanced .NET & System Design
 * 🧩 Problem Solver | ⚡ Self Learner | 🧠 Autonomous
 
